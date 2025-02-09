@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
-import './css/toDoList.css'
-// react btns
+import "/css/toDoList.css";
+
 import { AiOutlineDelete } from "react-icons/ai";
 import { BsCheckLg } from "react-icons/bs";
 
