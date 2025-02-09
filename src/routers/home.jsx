@@ -1,4 +1,4 @@
-import "./css/home.css";
+import "../css/home.css";
 import { LuListTodo } from "react-icons/lu";
 import { IoIosJournal } from "react-icons/io";
 import { FaCalendarAlt } from "react-icons/fa";
