@@ -1,5 +1,5 @@
 // `react-router-dom` を使う
-import  './app.css'
+import  './App.css'
 import { BrowserRouter, Routes, Route, Link } from 'react-router'; 
 
 // Routerフォルダ内のjsxファイルをImport
