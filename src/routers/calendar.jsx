@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import "/css/home.css";
+import "./css/home.css";
 import { AiOutlineDelete } from "react-icons/ai";
 
 
