@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import "./css/journal.css";
+import "/css/home.css";
 
 function Journal() {
     const [entries, setEntries] = useState({});
